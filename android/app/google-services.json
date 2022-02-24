@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "966429084804",
+    "project_id": "test-log-travel",
+    "storage_bucket": "test-log-travel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966429084804:android:2b9df4bc23667c7d1f46d1",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966429084804-ek8jjla5b6lqictr201ieq2ndtr9oik2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "6f9f2472f2558054790d33dfcb5bc1a9b87d5b06"
+          }
+        },
+        {
+          "client_id": "966429084804-t4hv5d6f0bvr5h2e1nmuscbeuv4opu2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfMvvULOp7au--eTMTGf42ZkOGJg13LeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966429084804-t4hv5d6f0bvr5h2e1nmuscbeuv4opu2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
